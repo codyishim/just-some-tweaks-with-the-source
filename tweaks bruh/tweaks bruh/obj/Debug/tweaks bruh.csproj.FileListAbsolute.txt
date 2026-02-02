@@ -1,0 +1,14 @@
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks bruh.csproj.AssemblyReference.cache
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\MainWindow.baml
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\MainWindow.g.cs
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\App.g.cs
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks bruh.csproj.GenerateResource.cache
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks bruh.csproj.CoreCompileInputs.cache
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\bin\Debug\tweaks.lol.exe.config
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\bin\Debug\tweaks.lol.exe
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\bin\Debug\tweaks.lol.pdb
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks.lol_MarkupCompile.cache
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks.lol.g.resources
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks.lol.Properties.Resources.resources
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks.lol.exe
+C:\Users\codya\source\repos\tweaks bruh\tweaks bruh\obj\Debug\tweaks.lol.pdb
